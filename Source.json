@@ -1,33 +1,23 @@
 {
   "name": "EeveeSpotify Source",
-  "subtitle": "Spotify Premium tweak for iOS",
-  "description": "EeveeSpotify enables Spotify Premium features for free, including ad-free listening, unlimited skips, and custom lyrics support.",
-  "iconURL": "https://raw.githubusercontent.com/whoeevee/EeveeSpotify/main/icon.png",
-  "headerURL": "https://raw.githubusercontent.com/whoeevee/EeveeSpotify/main/banner.png",
-  "website": "https://github.com/whoeevee/EeveeSpotify",
-  "tintColor": "#1DB954",
+  "identifier": "com.yujidurta.eeveespotify",
   "apps": [
     {
       "name": "EeveeSpotify",
       "bundleIdentifier": "com.spotify.client",
       "developerName": "whoeevee",
-      "subtitle": "Spotify Premium for free",
-      "version": "5.9.5-9.0.36",
+      "subtitle": "Spotify Premium tweak",
       "iconURL": "https://raw.githubusercontent.com/whoeevee/EeveeSpotify/main/icon.png",
       "tintColor": "#1DB954",
-      "size": 80290000,
       "versions": [
         {
           "version": "5.9.5-9.0.36",
           "date": "2025-04-30",
-          "localizedDescription": "This version adds support for Spotify 9.0.36 and improves stability.",
+          "localizedDescription": "Adds support for Spotify 9.0.36 and bug fixes.",
           "downloadURL": "https://github.com/whoeevee/EeveeSpotify/releases/download/swift5.9.5/EeveeSpotify-5.9.5-9.0.36.ipa",
-          "iconURL": "https://raw.githubusercontent.com/whoeevee/EeveeSpotify/main/icon.png",
-          "tintColor": "#1DB954",
           "size": 80290000
         }
       ]
     }
-  ],
-  "news": []
+  ]
 }
