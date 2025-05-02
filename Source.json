@@ -20,7 +20,7 @@
         {
           "version": "5.9.5-9.0.36",
           "date": "2025-04-30",
-          "localizedDescription": "Latest version with enhanced stability and support for Spotify 9.0.36.",
+          "localizedDescription": "This version adds support for Spotify 9.0.36 and improves stability.",
           "downloadURL": "https://github.com/whoeevee/EeveeSpotify/releases/download/swift5.9.5/EeveeSpotify-5.9.5-9.0.36.ipa",
           "iconURL": "https://raw.githubusercontent.com/whoeevee/EeveeSpotify/main/icon.png",
           "tintColor": "#1DB954",
